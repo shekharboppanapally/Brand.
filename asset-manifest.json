@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Brand./static/css/main.77d38d39.css",
+    "main.js": "/Brand./static/js/main.b3aa2da9.js",
+    "static/media/support.jpg": "/Brand./static/media/support.13dffa5bdb3a671bcb5b.jpg",
+    "static/media/cyber-bg.png": "/Brand./static/media/cyber-bg.44527257ee32d74ae878.png",
+    "index.html": "/Brand./index.html",
+    "main.77d38d39.css.map": "/Brand./static/css/main.77d38d39.css.map",
+    "main.b3aa2da9.js.map": "/Brand./static/js/main.b3aa2da9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77d38d39.css",
+    "static/js/main.b3aa2da9.js"
+  ]
+}
